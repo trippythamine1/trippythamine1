@@ -1,9 +1,22 @@
-<h1 align="center">Привет 👋, меня зовут Денис</h1>
-<h3 align="center">Я из России</h3>
+<h1 align="center">Привет! Я Денис :) 👋</h1>
 
-<h3 align="left">Свяжитесь со мной:</h3>
-<p align="left">
-</p>
+<h3 align="center">Студент направления «Веб-разработка» 💻</h3>
 
-<h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h4 align="center">🐙 GitHub • 🐍 Python • 🟨 JavaScript • 🎨 HTML5 & CSS3 • 🌿 Git</h4>
+
+## 🧑‍💻 Обо мне
+
+* 🎓 Студент Университетского технологического колледжа АлтГТУ им. И.И. Ползунова.
+* 🌐 Изучаю веб-разработку и современные инструменты создания приложений.
+* 🐍 Знаю язык программирования Python и основы ООП на Python.
+* 🎨 Работаю с HTML и CSS для создания и оформления веб-страниц.
+* 🚀 Постоянно развиваю свои знания и практические навыки.
+
+## 🛠 Навыки и технологии
+
+| Технология | Уровень / Применение |
+| :--- | :--- |
+| **Python** | Базовый синтаксис, основы ООП |
+| **HTML5 / CSS3** | Верстка и стилизация веб-страниц |
+| **JavaScript** | Базовый уровень, интерактивность |
+| **Git и GitHub** | Контроль версий, работа с репозиториями |
